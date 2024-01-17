@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: #383434;
+    font-family: Georgia;
+}
+
+#logo {
+    width: 300px;
+    margin: 1rem 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.sottotitolo {margin-bottom: 1rem;
+font-family: Georgia;} 
+
+.contenuto {
+    width: 60%;
+    text-align: left;
+    margin: auto;
+}
+
+nav {
+    background-color: #f3f2ee;
+    padding: 1rem 0;
+    border-top: 1px solid yellow;
+    color: #026d6d;
+    font-size: 1rem;
+    margin-bottom: 3rem;
+}
+.contenuto video {
+    width: 100%;
+    font-weight: 1000;
+    border-radius: 15px;
+     }
+
+#author {
+    display: block;
+    color: rgba(63, 62, 62, 0.4);
+    text-align: center;
+    margin-top: 2rem;
+}
+#featured span {
+    color: #d65c1f;
+    display: block;
+}
+
+#featured {
+    border-left: 1px solid yellow;
+    padding-left: 1rem;
+    margin-top: 2rem;
+}
+
+
+#featured a,
+#link {
+    color: rgb(4, 95, 95);
+}
+
+.ingredients {
+    margin-top: 6rem;
+}
+
+h2 {
+    font-weight: 1000;
+}
+
+.titolo-sezione {
+    border-bottom: 1.5px solid rgb(97, 248, 248);
+    margin-bottom: 3rem;
+}
+
+ul {
+    margin-bottom: 2rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+
+p{font-weight: bold;}
